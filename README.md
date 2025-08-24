@@ -2,7 +2,7 @@
 See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/)
 &nbsp;
 
-A dynamic and fully responsive website with a modern design that will capture your customer's attention. We've mastered HTML and CSS, combining them with JavaScript and the jQuery library to deliver intuitive navigation and interactive galleries. It's not just a website, it's a digital portfolio.
+A dynamic and fully responsive website with a modern design that will capture your customer's attention. We've mastered HTML and CSS, combining them with JavaScript and the jQuery library to deliver intuitive navigation and interactive galleries.
 &nbsp;
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
