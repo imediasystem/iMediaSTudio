@@ -1,3 +1,5 @@
+<img width="1886" height="919" alt="screenshot" src="https://github.com/user-attachments/assets/d40f3220-70e3-4e20-9385-926cc226859a" />
+
 ## 🔥 Project Name - iMediaSTudio
 See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/)
 &nbsp;
