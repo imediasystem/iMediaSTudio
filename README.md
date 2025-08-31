@@ -19,7 +19,7 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 &nbsp;
 
 ## 🔗 See also
-Are you interested in? See my other projects and visit my website [iMedia SysteM - imediasystem.eu](https://imediasystem.eu/)
+Are you interested in? See my other projects and visit my website [iMedia SysteM - imediasystem.pl](https://imediasystem.pl/)
 &nbsp;
 
 ## 📝 Feel free to contact me
