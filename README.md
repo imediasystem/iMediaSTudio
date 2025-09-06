@@ -1,7 +1,7 @@
 <img width="1886" height="919" alt="screenshot" src="https://github.com/user-attachments/assets/d40f3220-70e3-4e20-9385-926cc226859a" />
 
 ## 🔥 Project Name - iMediaSTudio
-See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/)
+See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/) ↗️
 &nbsp;
 
 A dynamic and fully responsive website with a modern design that will capture your customer's attention. We've mastered HTML and CSS, combining them with JavaScript and the jQuery library to deliver intuitive navigation and interactive galleries.
@@ -19,9 +19,9 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 &nbsp;
 
 ## 🔗 See also
-Are you interested in? See my other projects and visit my website [iMedia SysteM - imediasystem.pl](https://imediasystem.pl/)
+Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
 
 ## 📝 Feel free to contact me
-Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/)
+Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
 &nbsp;
