@@ -396,6 +396,28 @@ h2::after {
     margin-top: 5px;
 }
 
+.pauseOff > img {
+    display:none;
+}
+
+.play-button-off > img {
+    display:none;
+}
+
+.pause-button-on > img {
+    display: block;
+    width: 24px;
+    height: 24px;
+    padding: 5px;
+    float: left;
+    margin-top: 5px;
+
+}
+
+.pause-button-off > img {
+    display: none;
+}
+
 .volume > img {
     display: block;
     width: 20px;
@@ -408,6 +430,18 @@ h2::after {
     display: none;
 }
 
+.volume-mute-off > img{
+    display: none;
+}
+
+.volume-mute-on > img{
+    display: block;
+    width: 20px;
+    height: 16px;
+    float: left;
+    margin-top: 5px;
+}
+
 .clear {
     clear: both;
 }
@@ -418,34 +452,41 @@ h2::after {
     padding-left: 40px;
     text-align: left;
 }
+
 .right-content-titles ul li {
     list-style-type: none;
     margin-bottom: 20px;
 }
+
 .right-content-titles a {
     font-family: 'Libre Franklin', sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     color:white;
     text-decoration: none;
 }
+
 .right-content-titles a:hover {
     color:#a46a60;
 }
+
 .right-content-times {
     float: left;
     padding-top: 64px;
     padding-left: 160px;
     text-align: left;
 }
+
 .right-content-times ul li {
     list-style-type: none;
     margin-bottom: 20px;
     color:white;
 }
+
 .right-content-scroll {
     float: left;
     position: relative;
 }
+
 .scroll-bottom {
     position: absolute;
     width:6px;
@@ -455,6 +496,7 @@ h2::after {
     left:35px;
     border-radius: 4px;
 }
+
 .scroll-on-top {
     position: absolute;
     width:6px;
@@ -466,38 +508,20 @@ h2::after {
 }
 
 .img-fb-style {
-    padding-top:65px;
+    padding-top: 20px;
     margin-left: 300px;
 }
-.img-sc-style{
-    padding-top:65px;
-    margin-left: 10px;
-}
-.img-tw-style {
-    padding-top:65px;
-    margin-left: 10px;
-}
-.pauseButton {
-    
-}
-.pauseOff > img {
-    display:none;
-}
-.play-button-off > img {
-    display:none;
-}
-.pause-button-on > img {
-    display: block;
-    width:20px;
-    height: 21px;
-    padding: 5px;
-    float: left;
-    margin-top: 5px;
 
+.img-sc-style{
+    padding-top: 20px;
+    margin-left: 10px;
 }
-.pause-button-off > img {
-    display: none;
+
+.img-tw-style {
+    padding-top: 20px;
+    margin-left: 10px;
 }
+
 /*.play {
     background: url('../images/play-button.png') no-repeat;
 }
@@ -508,16 +532,7 @@ h2::after {
 .brown-title-song-4,.brown-title-song-5,.time0,.time1,.time2,.time3,.time4,.time5 {
     color:#a46a60!important;
 }
-.volume-mute-off > img{
-    display: none;
-}
-.volume-mute-on > img{
-    display: block;
-    width:24px;
-    height: 17px;
-    float: left;
-    margin-top: 10px;
-}
+
 
 /* Gallery */
 

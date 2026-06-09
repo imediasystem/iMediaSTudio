@@ -19,7 +19,7 @@ var time3 = document.getElementById("time-3");
 var time4 = document.getElementById("time-4");
 var time5 = document.getElementById("time-5");
 
-var songTable = ["http://localhost/mp3/utwor-pierwszy.mp3","http://localhost/mp3/utwor-drugi.mp3","http://localhost/mp3/utwor-trzeci.mp3","http://localhost/mp3/utwor-czwarty.mp3","http://localhost/mp3/utwor-piaty.mp3","http://localhost/mp3/utwor-szosty.mp3"];
+var songTable = ["mp3/utwor-pierwszy.mp3","mp3/utwor-drugi.mp3","mp3/utwor-trzeci.mp3","mp3/utwor-czwarty.mp3","utwor-piaty.mp3","mp3/utwor-szosty.mp3"];
 
 var muteButton = document.getElementById("muteButton");
 var unMuteButton = document.getElementById("unMuteButton");
