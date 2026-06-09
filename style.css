@@ -1,3 +1,139 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain) */
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
 /* Global Site Styles */
 
 * {
@@ -325,7 +461,7 @@ h2::after {
     border-radius: 10px;
     background-color: #159aea;
     box-shadow: 2px 4px 10px 4px gray;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .left-content {
@@ -360,8 +496,8 @@ h2::after {
     background-color: #ba7667;
     width: 300px;
     height: 6px;
-    top: 35px;
-    left: 0px;
+    top:35px;
+    left:0px;
     border-radius: 4px;
 }
 
@@ -369,31 +505,44 @@ h2::after {
     position:relative;
 
 }
+
 .prev > img,.next > img {
     display: block;
     width: 24px;
     height: 24px;
     padding: 5px;
     margin-top: 5px;
-    float: left;
-    
+    float: left;    
 }
+
+.prev > img {
+    margin-left: 120px;
+    margin-right: 5px;
+}
+
 .next > img {
     margin-right: 120px;
 }
 
-.prev > img {
-    margin-left: 120px;    
-    margin-right: 5px;
-}
-
-.play-button-on > img {
+.play-button-on > img{
     display: block;
     width: 24px;
     height: 24px;
     padding: 5px;
     float: left;
     margin-top: 5px;
+}
+
+.volume > img {
+    display: block;
+    width: 24px;
+    height: 17px;
+    float: left;
+    margin-top: 10px;    
+}
+
+.volume-off > img {
+    display: none;
 }
 
 .pauseOff > img {
@@ -413,80 +562,44 @@ h2::after {
     margin-top: 5px;
 
 }
-
 .pause-button-off > img {
     display: none;
-}
-
-.volume > img {
-    display: block;
-    width: 20px;
-    height: 16px;
-    float: left;
-    margin-top: 5px;
-    
-}
-.volume-off > img {
-    display: none;
-}
-
-.volume-mute-off > img{
-    display: none;
-}
-
-.volume-mute-on > img{
-    display: block;
-    width: 20px;
-    height: 16px;
-    float: left;
-    margin-top: 5px;
 }
 
 .clear {
     clear: both;
 }
-
 .right-content-titles {
     float: left;
-    padding-top: 65px;
-    padding-left: 40px;
-    text-align: left;
+    padding-top: 52px;
 }
-
 .right-content-titles ul li {
     list-style-type: none;
     margin-bottom: 20px;
 }
-
 .right-content-titles a {
-    font-family: 'Libre Franklin', sans-serif;
-    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
     color:white;
     text-decoration: none;
 }
-
 .right-content-titles a:hover {
     color:#a46a60;
 }
-
 .right-content-times {
     float: left;
-    padding-top: 64px;
-    padding-left: 160px;
-    text-align: left;
+    padding-top: 52px;
+    padding-left: 10px;
 }
-
 .right-content-times ul li {
     list-style-type: none;
     margin-bottom: 20px;
     color:white;
 }
-
 .right-content-scroll {
     float: left;
     position: relative;
 }
-
 .scroll-bottom {
     position: absolute;
     width:6px;
@@ -496,7 +609,6 @@ h2::after {
     left:35px;
     border-radius: 4px;
 }
-
 .scroll-on-top {
     position: absolute;
     width:6px;
@@ -508,17 +620,15 @@ h2::after {
 }
 
 .img-fb-style {
-    padding-top: 20px;
+    padding-top:30px;
     margin-left: 300px;
 }
-
 .img-sc-style{
-    padding-top: 20px;
+    padding-top:30px;
     margin-left: 10px;
 }
-
 .img-tw-style {
-    padding-top: 20px;
+    padding-top:30px;
     margin-left: 10px;
 }
 
@@ -531,6 +641,17 @@ h2::after {
 .brown-title-song-0,.brown-title-song-1,.brown-title-song-2,.brown-title-song-3,
 .brown-title-song-4,.brown-title-song-5,.time0,.time1,.time2,.time3,.time4,.time5 {
     color:#a46a60!important;
+}
+
+.volume-mute-off > img{
+    display: none;
+}
+.volume-mute-on > img{
+    display: block;
+    width: 24px;
+    height: 17px;
+    float: left;
+    margin-top: 10px;
 }
 
 
