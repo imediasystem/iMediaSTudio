@@ -1,13 +1,20 @@
 [<img width="1886" height="919" alt="screenshot" src="https://github.com/user-attachments/assets/d40f3220-70e3-4e20-9385-926cc226859a" />](https://imediasystem.github.io/iMediaSTudio/)
 
 ## 🔥 Project Name - iMediaSTudio
-See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/iMediaSTudio/)
 &nbsp;
 
 A dynamic and fully responsive website with a modern design that will capture your customer's attention. We've mastered HTML and CSS, combining them with JavaScript and the jQuery library to deliver intuitive navigation and interactive galleries.
 &nbsp;
 
-## 📚 Technologies / Frameworks / Platforms / Libraries
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
+## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
