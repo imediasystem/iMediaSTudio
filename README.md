@@ -1,6 +1,8 @@
 [<img width="1886" height="919" alt="screenshot" src="https://github.com/user-attachments/assets/d40f3220-70e3-4e20-9385-926cc226859a" />](https://imediasystem.github.io/iMediaSTudio/)
 
 ## 🔥 Project Name - iMediaSTudio
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Sklep/)
 See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/) ↗️
 &nbsp;
 
