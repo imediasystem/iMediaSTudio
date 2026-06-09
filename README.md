@@ -2,8 +2,7 @@
 
 ## 🔥 Project Name - iMediaSTudio
 
-[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Sklep/)
-See the live version of [iMediaSTudio](https://imediasystem.github.io/iMediaSTudio/) ↗️
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/iMediaSTudio/)
 &nbsp;
 
 A dynamic and fully responsive website with a modern design that will capture your customer's attention. We've mastered HTML and CSS, combining them with JavaScript and the jQuery library to deliver intuitive navigation and interactive galleries.
