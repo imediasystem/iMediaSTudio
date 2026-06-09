@@ -413,9 +413,9 @@ h2::after {
 }
 
 .col-one-third {
-    max-width: 33.333333%;
+    width: 33.333333%;
     background-color: #ffffff;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 1%;
     box-shadow: 2px 4px 10px 4px gray;
     position: relative;
