@@ -461,7 +461,7 @@ h2::after {
     border-radius: 10px;
     background-color: #159aea;
     box-shadow: 2px 4px 10px 4px gray;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .left-content {
@@ -533,23 +533,11 @@ h2::after {
     margin-top: 5px;
 }
 
-.volume > img {
-    display: block;
-    width: 24px;
-    height: 17px;
-    float: left;
-    margin-top: 10px;    
-}
-
-.volume-off > img {
-    display: none;
-}
-
-.pauseOff > img {
+.play-button-off > img {
     display:none;
 }
 
-.play-button-off > img {
+.pauseOff > img {
     display:none;
 }
 
@@ -566,40 +554,74 @@ h2::after {
     display: none;
 }
 
+.volume > img {
+    display: block;
+    width: 24px;
+    height: 17px;
+    float: left;
+    margin-top: 10px;    
+}
+
+.volume-off > img {
+    display: none;
+}
+
+.volume-mute-off > img{
+    display: none;
+}
+
+.volume-mute-on > img{
+    display: block;
+    width: 24px;
+    height: 17px;
+    float: left;
+    margin-top: 10px;
+}
+
 .clear {
     clear: both;
 }
+
 .right-content-titles {
     float: left;
-    padding-top: 52px;
+    padding-top: 65px;
+    padding-left: 40px;
+    text-align: left;
 }
+
 .right-content-titles ul li {
     list-style-type: none;
     margin-bottom: 20px;
 }
+
 .right-content-titles a {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     color:white;
     text-decoration: none;
 }
+
 .right-content-titles a:hover {
     color:#a46a60;
 }
+
 .right-content-times {
     float: left;
-    padding-top: 52px;
-    padding-left: 10px;
+    padding-top: 65px;
+    padding-left: 140px;
+    text-align: left;
 }
+
 .right-content-times ul li {
     list-style-type: none;
     margin-bottom: 20px;
     color:white;
 }
+
 .right-content-scroll {
     float: left;
     position: relative;
 }
+
 .scroll-bottom {
     position: absolute;
     width:6px;
@@ -609,6 +631,7 @@ h2::after {
     left:35px;
     border-radius: 4px;
 }
+
 .scroll-on-top {
     position: absolute;
     width:6px;
@@ -641,17 +664,6 @@ h2::after {
 .brown-title-song-0,.brown-title-song-1,.brown-title-song-2,.brown-title-song-3,
 .brown-title-song-4,.brown-title-song-5,.time0,.time1,.time2,.time3,.time4,.time5 {
     color:#a46a60!important;
-}
-
-.volume-mute-off > img{
-    display: none;
-}
-.volume-mute-on > img{
-    display: block;
-    width: 24px;
-    height: 17px;
-    float: left;
-    margin-top: 10px;
 }
 
 
